@@ -1,0 +1,12 @@
+{
+	"reponame":"sample-helloworldupdate",
+	"caption":"Hello World",
+	"tooltip":"Sample Hello World App",
+	"description":"Just the basics to get new developers started.",
+	"articleurl":"",
+	"categories":["Basic","UI"],
+	"visible": "true",
+	"apppreview":"true",
+	"appname":"andrew.hyde.smith.helloworldupdate",
+	"relname":"4.0.0"
+}
