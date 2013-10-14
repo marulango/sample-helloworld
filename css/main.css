@@ -20,7 +20,6 @@ body {
 	width:100%;	height:100%;
     overflow:hidden;
     -webkit-user-select:none;
-    font-family:"AmbleRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 input,textarea
