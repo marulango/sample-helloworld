@@ -4,8 +4,10 @@ Hello World is a simple app that shows the basics of making an app
 
 Intel(R) XDK 
 -------------------------------------------
-This sample is part of the Intel(R) XDK. 
-Please sign up the beta at http://software.intel.com/en-us/html5.
+This sample is part of the Intel(R) XDK tool. Please sign up 
+at http://software.intel.com/en-us/html5. To see the technical 
+detail of the sample, please visit the sample article page at 
+http://software.intel.com/en-us/articles/intel-xdk-hello-world-sample.
 
 
 Important App Files
