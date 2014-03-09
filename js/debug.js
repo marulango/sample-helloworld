@@ -1,3 +1,5 @@
+/*jslint browser:true, devel:true, white:true, vars:true, eqeq:true */
+/*global invalidVariable:false*/
 //debugging sample code
 
 //Once everything is loaded, this code will draw on the debug sample buttons
@@ -12,7 +14,7 @@ document.addEventListener("appMobi.device.ready",function() {
     document.getElementById("buttonid").parentNode.appendChild(containerDIV);
 		
 	//this button should work with no issues thrown in the debugger
-    btnDebugGood = document.createElement('div');
+    var btnDebugGood = document.createElement('div');
     btnDebugGood.setAttribute ("class","button");
 	btnDebugGood.style.position = "static";
 	btnDebugGood.style.marginLeft = "auto";
@@ -32,7 +34,7 @@ document.addEventListener("appMobi.device.ready",function() {
 	document.getElementById("debugContainerDIV").appendChild(document.createElement("br"));	
     
 	//this button includes JavaScript errors that will throw events in the debugger
-    btnDebugBad = document.createElement('div');
+    var btnDebugBad = document.createElement('div');
     btnDebugBad.setAttribute ("class","button");
 	btnDebugBad.style.position = "static";
 	btnDebugBad.style.marginLeft = "auto";
@@ -41,7 +43,7 @@ document.addEventListener("appMobi.device.ready",function() {
     btnDebugBad.addEventListener("touchstart",function(){
         
         //this should break the debugger
-        breakDebugger = invalidVariable;
+        var breakDebugger = invalidVariable;
         
         //Change the title here
         document.getElementById("headlineDIV").innerHTML="Hello Bad!";
