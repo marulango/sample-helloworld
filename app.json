@@ -6,7 +6,7 @@
 	"articleurl":"http://software.intel.com/en-us/articles/intel-xdk-hello-world-sample",
 	"keywords":["intel.xdk API"],
 	"highlights":["intel.xdk API"],
-	"visible": "false",
+	"visible": "true",
 	"apppreview":"true",
 	"appname":"demo.helloworldupdate",
 	"relname":"4.0.0"
