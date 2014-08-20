@@ -3,7 +3,7 @@
 //debugging sample code
 
 //Once everything is loaded, this code will draw on the debug sample buttons
-document.addEventListener("appMobi.device.ready",function() {
+document.addEventListener("deviceready",function() {
 
     console.log("This sample code will help illustrate how to do on-device debugging.");
     
