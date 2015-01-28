@@ -9,5 +9,6 @@
 	"visible": "true",
 	"apppreview":"true",
 	"appname":"demo.helloworldupdate",
-	"relname":"4.0.0"
+	"relname":"4.0.0",
+  	"projectTypeName": "com.intel.xdk.projecttype.jsapp"
 }
