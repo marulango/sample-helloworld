@@ -1,14 +1,18 @@
 {
-	"repoName":"sample-helloworld",
-	"caption":"Hello World",
-	"tooltip":"Sample Hello World App",
-	"description":"Just the basics to get new developers started.",
-	"articleUrl":"http://software.intel.com/en-us/articles/intel-xdk-hello-world-sample",
-	"keywords":["intel.xdk API"],
-	"highlights":["intel.xdk API"],
-	"visible": "true",
-	"apppreview":"true",
-	"appname":"demo.helloworldupdate",
-	"relname":"4.0.0",
-  	"projectTypeName": "com.intel.xdk.projecttype.jsapp"
+   "repoName" : "sample-helloworld",
+   "relName" : "4.0.0",
+   "highlights" : [
+      "intel.xdk API"
+   ],
+   "appPreview" : "true",
+   "visible" : "true",
+   "tooltip" : "Sample Hello World App",
+   "articleUrl" : "http://software.intel.com/en-us/articles/intel-xdk-hello-world-sample",
+   "keywords" : [
+      "intel.xdk API"
+   ],
+   "caption" : "Hello World",
+   "projectTypeName" : "com.intel.xdk.projecttype.jsapp",
+   "description" : "Just the basics to get new developers started.",
+   "appName" : "demo.helloworldupdate"
 }
