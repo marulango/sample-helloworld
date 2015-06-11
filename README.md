@@ -6,8 +6,7 @@ Intel(R) XDK
 -------------------------------------------
 This sample is part of the Intel(R) XDK tool. Please sign up 
 at http://software.intel.com/en-us/html5. To see the technical 
-detail of the sample, please visit the sample article page at 
-http://software.intel.com/en-us/articles/intel-xdk-hello-world-sample.
+detail of the sample, please visit the sample article page at https://software.intel.com/en-us/xdk/docs/intel-xdk-guided-tutorial.
 
 
 Important App Files

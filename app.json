@@ -13,7 +13,7 @@
    "appPreview" : true,
    "projectTypeName" : "com.intel.xdk.projecttype.jsapp",
    "relName" : "4.0.0",
-   "articleUrl" : "http://software.intel.com/en-us/articles/intel-xdk-hello-world-sample",
+   "articleUrl" : "https://software.intel.com/en-us/xdk/docs/intel-xdk-guided-tutorial",
    "highlights" : [
       "intel.xdk API"
    ]
